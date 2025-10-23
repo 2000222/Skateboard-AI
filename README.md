@@ -9,7 +9,7 @@ Impressed by the coolest skateboarding sports program from 2021 Tokyo Olympic Ga
 
 ☪️ You can directly download the "SkateboardAI" dataset from this Google Drive link (For people who can not sign in the Baidu Pan link): 
 
-https://drive.google.com/drive/folders/12Otoec0aRueDa1AO_gmw539mQtR0Cn6A?usp=sharing   
+https://drive.google.com/drive/folders/1qu7DIMo7ktr_Lqg2f2G2V2mDGwAzL0f1?usp=sharing   
 
 ![image](https://github.com/2000222/Skateboard-AI/blob/main/1.png)
 
